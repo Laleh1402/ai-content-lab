@@ -2,3 +2,4 @@ My First GitHub Project
 
 This is my first project on GitHub.
 I am learning GitHub and AI tools step by step.
+My goal is to build useful AI tools.
